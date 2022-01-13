@@ -16,7 +16,7 @@
 * windows 10 (boring/spies unless you run my tool)
 * mac os (cuz boring and slightly less spyware)
 * chrome os (yawn...)
-* * iPadOS/iOS (because essentially shrunk down macOS but better privacy if you disable stuff,less privacy if you leave everything enabled like a normie, and less features)
+* iPadOS/iOS (because essentially shrunk down macOS but better privacy if you disable stuff,less privacy if you leave everything enabled like a normie, and less features)
 * lineage os (fourth best os, but do not install opengapps)
 * windows vista (misunderstood due to most hardware not supporting it at the time, and most computer users not being savvy.)
 * pop!\_os default (fun)
