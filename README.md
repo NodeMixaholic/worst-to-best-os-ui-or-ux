@@ -22,7 +22,7 @@
 * pop!\_os default (fun)
 * windows xp (because its a classic its so good and stable once you get it running)
 * degoogled android **not lineage** (close third best mobile os)
-* calyx os (because its the first best mobile os lol, only issue is because its somewhat unstable when it comes to gservices, but its getting better.)
+* calyx os (because its the best mobile os lol, only issue is because its somewhat unstable when it comes to gservices, but its getting better.)
 * windows 7 (peak fucking windows, all went to shit from here.)
 ---
 Copyright Samuel Lord. All rights reserved
