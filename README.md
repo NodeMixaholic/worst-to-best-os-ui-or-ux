@@ -2,7 +2,7 @@
 ## (in the opinion of nodemixaholic)
 * Any version of an OS that doesnt function (Due to bug, or just bad coding, etc. One example would be the original GEMS EXP made in RustLang)
 * GEMS (I know it's shit because I made it.)
-* Any version of GEMS programmed in C# (GEMS NT, etc.) ***NodeMixaholic Approved form of computer AS WELL AS human torture)***
+* Any version of GEMS programmed in C# (GEMS NT, etc.) ***(NodeMixaholic Approved form of computer AS WELL AS human torture)***
 * temple os (full of 4chan users in the community)
 * any fsf approved desktop distro (shit)
 * gentoo (compile everything so installs take so long i cant handle it)
