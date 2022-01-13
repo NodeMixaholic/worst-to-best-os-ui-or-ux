@@ -17,7 +17,7 @@
 * mac os (cuz boring and slightly less spyware) ***NodeMixaholic Approved***
 * chrome os (yawn...) ***NodeMixaholic Approved, if you dont mind being spied on...***
 * iPadOS/iOS (because essentially shrunk down macOS but better privacy if you disable stuff,less privacy if you leave everything enabled like a normie, and less features) ***NodeMixaholic Approved, if you dont mind the possibility of being spied on...***
-* lineage os (fourth best os, but do not install opengapps)
+* lineage os (fourth best mobile os, but do not install opengapps)
 * windows vista (misunderstood due to most hardware not supporting it at the time, and most computer users not being savvy.)
 * pop!\_os default (fun) ***NodeMixaholic Approved***
 * windows xp (because its a classic its so good and stable once you get it running) ***NodeMixaholic Approved for classic computing***
